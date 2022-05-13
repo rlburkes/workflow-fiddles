@@ -1,1 +1,1 @@
-var foo = "Placeholder!";
+var foo = "Placeholder!";foo
