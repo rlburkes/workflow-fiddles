@@ -1,1 +1,1 @@
-result.records[0];
+var foo = "Placeholder!";
